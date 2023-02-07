@@ -29,15 +29,38 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 ###### Naive Random Oversampling
 
+![Naive Random Oversampling](https://user-images.githubusercontent.com/111623064/217157402-ae3afbc0-1cb9-462f-b45a-b0f4ddf065e8.png)
+
+- Notes 
+
 ###### SMOTE Oversampling
+
+![SMOTE Oversampling](https://user-images.githubusercontent.com/111623064/217157354-0f7a4a5a-3642-42d3-a2c2-f4c21b38779f.png)
+
+- Notes 
 
 ###### Undersampling using the Cluster Centroids algorithm
 
+![Undersampling](https://user-images.githubusercontent.com/111623064/217157289-10eb3256-7d6b-4417-911a-ac40886dc701.png)
+
+- Notes 
+
 ###### Combination (Over and Under) Sampling using SMOTEENN
+
+![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/111623064/217157499-5d82f072-27a8-40f9-8818-0ee16dce6fe8.png)
+
+- Notes 
 
 ###### Balanced Random Forest Classifier
 
+![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/111623064/217157531-2e59c51e-4e96-43be-a1a1-d7ffdb5351e6.png)
+
+- Notes 
+
 ###### Easy Ensemble Classifier
 
+![Easy Ensemble Classifier](https://user-images.githubusercontent.com/111623064/217157554-ea4873ed-96a6-4cd2-a405-86be33fcb685.png)
+
+- Notes 
 
 ## Summary
