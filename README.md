@@ -16,7 +16,7 @@ This new assignment consists of three technical analysis deliverables and a writ
 ## Resources
 - Data Source:[LoanStats_201901.csv](https://github.com/abrodyyy/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.csv)
 - Software:
-- [Google Colaboratory](https://colab.research.google.com))
+- [Google Colaboratory](https://colab.research.google.com)
 - [Visual Studio Code, 1.70.2](https://code.visualstudio.com/updates/v1_70)
 - [Jupyter Notebook 6.4.8](https://jupyter-notebook.readthedocs.io/_/downloads/en/v6.4.8/pdf/)
 - [Python 3.9.12](https://www.python.org/downloads/release/python-3912/)
