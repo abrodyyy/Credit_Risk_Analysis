@@ -14,14 +14,13 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 
 ## Resources
-- Data Source: [LoanStats_201901.csv]
-(https://github.com/abrodyyy/Credit_Risk_ Analysis/blob/main/Resources/LoanStats_ 201901.csv)
+- Data Source: [LoanStats_201901.csv](https://github.com/abrodyyy/Credit_Risk_ Analysis/blob/main/Resources/LoanStats_ 201901.csv)
 - Software:
-- [Google Colaboratory] (https://colab. research.google.com)
-- [Visual Studio Code, 1.70.21 (https: //code.visualstudio.com/updates/v1 70)
-- [Jupyter Notebook 6.4.8] (https://jupyter-notebook. readthedocs.io/_/downloads/en/v6.4.8/pdf/)
-- [Python 3.9.12] (https://www.python.org/downloads/release/python-3912/)
-    - [imbalanced-learn] (https ://imbalanced-learn.org/stable/)
+- [Google Colaboratory](https://colab. research.google.com)
+- [Visual Studio Code, 1.70.21](https: //code.visualstudio.com/updates/v1 70)
+- [Jupyter Notebook 6.4.8](https://jupyter-notebook. readthedocs.io/_/downloads/en/v6.4.8/pdf/)
+- [Python 3.9.12](https://www.python.org/downloads/release/python-3912/)
+    - [imbalanced-learn](https ://imbalanced-learn.org/stable/)
     - [scikit-learn](https://scikit-learn.org/stable/)
 
 
